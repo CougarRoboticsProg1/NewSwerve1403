@@ -1,0 +1,39 @@
+[
+    {
+        "Parameters": {
+            "x": 0,
+            "angle": 0,
+            "y": 0
+        },
+        "CommandName": "SetStartPosition"
+    },
+    {
+        "Parameters": {
+            "Waypoints": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 4.92,
+                    "y": 0
+                },
+                {
+                    "x": 4.92,
+                    "y": 4.92
+                },
+                {
+                    "x": 0,
+                    "y": 4.92
+                },
+                {
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "EndAngle": 0,
+            "StartAngle": 0
+        },
+        "CommandName": "SwerveDrivePath"
+    }
+]
